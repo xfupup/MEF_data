@@ -1,0 +1,2 @@
+# MEF_data
+18 representative MEF methods on multiple groups of typical source images are compared using nine commonly-used objective fusion metrics. The performance of MEF methods in static and dynamic scenes is analyzed. Relevant resources, including source images, fusion results, and related curves, have provided corresponding download links at “https://pan.baidu.com/s/1EjdZWsVtbOidQwKJsq43wg” and the password is “2iqy”. It is convenient for the comparison and analysis of the current MEF algorithms.
